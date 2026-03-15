@@ -37,15 +37,8 @@ The model uses **MobileNetV2 transfer learning architecture** to achieve efficie
 
 ---
 
-# 👥 Team Members
 
-| Name | Roll Number |
-|-----|-------------|
-| KARAMSETTY BHOOMIKA | 22KQ1A6110 |
-| KUNCHALA VAMSHI | 22KQ1A6148 |
-| CHILAKALA BHANUPRAKASH | 22KQ1A6136 |
-| SINGAMPALLI KEERTHI | 22KQ1A6126 |
-| GEDDADA PADMAJA | 22KQ1A6108 |
+
 
 ---
 
