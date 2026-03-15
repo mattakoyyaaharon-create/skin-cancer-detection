@@ -1,4 +1,4 @@
-# 🧠 Skin Cancer Detection and Classification using Deep Learning
+# 🧠 Skin Cancer Detection and Classification using Deep Learning Models
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange)
