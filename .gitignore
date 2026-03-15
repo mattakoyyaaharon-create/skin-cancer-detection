@@ -1,0 +1,21 @@
+# Dataset
+dataset/
+
+# Python virtual environment
+venv/
+
+# Model files
+model/
+*.h5
+*.pt
+*.pth
+
+# Uploaded images
+static/uploads/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
